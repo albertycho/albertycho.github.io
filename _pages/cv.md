@@ -60,3 +60,6 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
+
+
+[Download my CV (PDF)](/files/Albert-Cho-CV.pdf)

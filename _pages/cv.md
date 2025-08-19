@@ -16,6 +16,11 @@ Education
 
 Work experience
 ======
+* Meta - Research Scientist Intern (2025 Full time Summer + Part time Fall)
+  * Power Management in AI Inference Servers
+    * Characterized power behavior in AI servers running ML inference
+    * Proposed a couple of approaches to improve power efficiency
+
 * Intel (2015~2020)
   * Display Micro Controller(DMC) Unit Owner 
   * Register Unit Owner

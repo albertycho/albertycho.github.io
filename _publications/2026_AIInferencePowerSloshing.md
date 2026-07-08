@@ -4,7 +4,7 @@ title: "Power Sloshing in Compound Servers for Large-Scale AI Inference Workload
 collection: publications
 category: conferences
 permalink: #/publication/2026-07-08-paper-title-number-4
-excerpt: '**Albert Cho**, Jovan Stojkovic, Leonardo Piga, Abhishek Dhanotia, Sultan Mahmud Sajal, Gefei Zuo, Krishna Malladi, Devon Akers, Kalyan Subramanian, Shobhit Kanaujia, Alexandros Daglis <br><br> Observations and insights on AI inference power consumption trends, with an example scheme to slosh power across components.'
+excerpt: '**Albert Cho**, Jovan Stojkovic, Leonardo Piga, Abhishek Dhanotia, Sultan Mahmud Sajal, Gefei Zuo, Krishna Malladi, Devon Akers, Kalyan Subramanian, Shobhit Kanaujia, Alexandros Daglis <br><br> Insights on AI inference power consumption trends, with an example scheme to slosh power across components.'
 date: 2026-07-01
 venue: '53rd IEEE/ACM International Symposium on Computer Architecture (ISCA 2026)'
 slidesurl: #'http://academicpages.github.io/files/slides3.pdf'
